@@ -21,3 +21,7 @@ torch	Required for embeddings
 
 STEP 3 — Setup llama.cpp (Windows)
 This runs the LLM locally.
+
+
+Model download link : https://huggingface.co/bartowski/Phi-3-mini-4k-instruct-GGUF
+Place this model in folder "models" [create one after cloning this repo inside the root folder]
